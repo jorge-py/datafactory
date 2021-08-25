@@ -6,10 +6,10 @@
 		"type": "SqlServer",
 		"typeProperties": {
 			"connectionString": "integrated security=False;data source=DESKTOP-27A1JHC;initial catalog=AdventureWorksDW2019;user id=sa",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkM2NjNjg3NC1mZDliLTRkMWEtYWExZC1hMDRjNzlhNGZlMzciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3NmZmZmE2OS0yNDM0LTQyMzAtOGQ3OS0wYTVlNjk0ZjVhNTEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
-			"referenceName": "integrationRuntime-localhost-jorgelaptop",
+			"referenceName": "integrationRuntimenuevoooooo",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
