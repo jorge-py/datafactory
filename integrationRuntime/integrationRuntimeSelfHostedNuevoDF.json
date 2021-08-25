@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntimeSelfHostedNuevoDF",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/1069eb97-dbf7-4dca-9523-43b9efdfd076/resourcegroups/rgPruebaDataFactory/providers/Microsoft.DataFactory/factories/dfTestCopyFromOnPremiseServer/integrationruntimes/integrationRuntime-localhost-jorgelaptop",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
