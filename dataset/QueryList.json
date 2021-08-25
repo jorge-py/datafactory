@@ -1,0 +1,13 @@
+{
+	"name": "QueryList",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_SQLServerOnPremise",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

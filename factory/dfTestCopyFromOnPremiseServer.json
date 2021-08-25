@@ -1,0 +1,9 @@
+{
+	"name": "dfTestCopyFromOnPremiseServer",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edc413b6-36d5-4288-a293-eee4b7aeeffe",
+		"tenantId": "36fbd43a-f690-4368-87ad-fa0099186f15"
+	}
+}

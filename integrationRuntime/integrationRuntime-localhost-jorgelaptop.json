@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime-localhost-jorgelaptop",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
